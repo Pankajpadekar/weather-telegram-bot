@@ -56,10 +56,7 @@ Wind speed in Kph :    {api_data['current']['wind_kph']}
 Disclaimer :- If you do not get actual city info which you have entered , try to add country also besides city   
 name.'''   
 
-    elif len(user_message) == 0:
-        response = "You didn't entry city name , Please try again."
-
-          
+         
     else:
        response = " City not found. Please enter city name correctly. "
 
