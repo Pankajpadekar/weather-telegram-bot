@@ -8,8 +8,8 @@ This is a telegram bot which tells you the current weather information of the ci
 
 #### Get all items
 
-```http://api.weatherapi.com/v1/current.json?key=
-```
+http://api.weatherapi.com/v1/current.json?key=
+
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
